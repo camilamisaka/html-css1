@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: #252525;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 20px;
+
+}
+
+li {
+    list-style: none;
+    color: #fff;
+    font-size: 20px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+#principal1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 1px solid blueviolet;
+
+    
+}
